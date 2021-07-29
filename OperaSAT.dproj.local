@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/20 15:11:48.000.998,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 15:02:13.000.195,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 11:43:44.000.731,=C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/27 11:45:28.000.171,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Principal.dfm</Transaction>
+    <Transaction>2021/07/27 11:45:28.000.171,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Principal.pas</Transaction>
+    <Transaction>2021/07/27 11:45:31.000.909,C:\Users\DevDelphi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\OperaSAT.dproj</Transaction>
+    <Transaction>2021/07/28 10:44:02.000.655,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 10:44:12.000.811,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\DadosVenda.pas</Transaction>
+    <Transaction>2021/07/28 10:44:12.000.811,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\DadosVenda.dfm</Transaction>
+    <Transaction>2021/07/28 11:12:02.000.922,=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.pas</Transaction>
+    <Transaction>2021/07/28 11:12:11.000.106,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.pas=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\ConfigImp.pas</Transaction>
+    <Transaction>2021/07/28 11:12:11.000.106,C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\Unit1.dfm=C:\Users\DevDelphi\Desktop\Anderson D C\Estudos Delphi\OperaSAT\ConfigImp.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
